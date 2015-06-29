@@ -1,0 +1,14 @@
+v1 - registsers clicks on links which do not have a href. Links with href navigate the page away(or refresh it), which clears all the counter. This will require link to database.
+
+v2 - removes all the href on links and sets function onclick() which will register the count of clicks. Since we are not navigating away, this count remains in the memory.
+
+v3 - adds a show map/hide map button, which adds divs highlighting the links. The layout is however being disturbed by it.
+
+v4 -  
+
+
+ver a1 - showmap/hidemap buttton simply changes the text decoration of A tags based on the number of clicks. This will be however very simple and not aesthetically appealing. 
+
+final v1 - 
+
+final v2 - added an option to show number of clicks. Size of circle is relative to number of clicks
